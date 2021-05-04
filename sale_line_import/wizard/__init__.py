@@ -1,6 +1,8 @@
 # -*- encoding: utf-8 -*-
 ###########################################################################
 #    Module Writen to OpenERP, Open Source Management Solution
+#    
+#    Migrated from v6 to v5 by Daniel Inglés Andreu (danielingle@gmail.com)
 #
 #    Copyright (c) 2012 Vauxoo - http://www.vauxoo.com
 #    All Rights Reserved.
